@@ -1,6 +1,6 @@
 # Akash Gupta
 # 💫 About Me:
-🔭 I’m currently working on: Building an AI assistant that can read documents and images to answer questions.<br>👯 I’m looking to collaborate on: Fun projects in AI, apps, or anything that makes life easier.<br><br>🤝 I’m looking for help with: Learning new AI tricks, coding tips, and building scalable projects.<br><br>🌱 I’m currently learning: AI, entrepreneurship, and exploring new technologies.<br><br>💬 Ask me about: Cool project ideas, coding, or travel adventures.<br><br>⚡ Fun fact: I’ve never seen snow but I want to try skiing and skydiving someday.
+
 
 
 ## 🌐 Socials:
