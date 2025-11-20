@@ -16,7 +16,7 @@
 
 ### 🚛 FleetOps - end-to-end Logistic Platforms
 **Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
-- [User Portal](https://fleet-ops-tau.vercel.app/)
+- [Live View](https://fleet-ops-tau.vercel.app/)
 - [Code](https://github.com/AKASH-GPT-1678/FleetOps)
 
 ### 📖 Library Management System
