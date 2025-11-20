@@ -14,10 +14,10 @@
 
 ## 🏆 Featured Projects
 
-### 📚 Computer Engineering Education Portal
+### 🚛 FleetOps - end-to-end Logistic Platforms
 **Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
-- [User Portal](https://techsurajsahani.pythonanywhere.com/)
-- [Admin Panel](https://techsurajsahani.pythonanywhere.com/admin/login/?next=/admin/)
+- [User Portal](https://fleet-ops-tau.vercel.app/)
+- [Code](https://github.com/AKASH-GPT-1678/FleetOps)
 
 ### 📖 Library Management System
 **Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
