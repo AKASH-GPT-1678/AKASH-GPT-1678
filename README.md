@@ -17,10 +17,8 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" /><br>Nest.js</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/openai-412991" width="55" height="55" /><br>OpenAI API</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/rag-lightblue" width="55" height="55" /><br>RAG</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/pytorch-orange" width="55" height="55" /><br>PyTorch</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/chromadb-009688" width="55" height="55" /><br>ChromaDB</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/vector%20db-6666ff" width="55" height="55" /><br>Vector DB</td>
+
+
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://img.shields.io/badge/prompt%20engineering-7f00ff" width="55" height="55" /><br>Prompt Eng.</td>
@@ -30,7 +28,6 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/fastapi-0e9e67" width="55" height="55" /><br>FastAPI</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="55" height="55" /><br>Django</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" /><br>.NET</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/prisma-2d3748" width="55" height="55" /><br>Prisma</td>
   </tr>
   <tr>
@@ -56,8 +53,7 @@
     <td align="center" width="90"><img src="https://img.shields.io/badge/chromadb-009688" width="55" height="55" /><br>ChromaDB</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/vector%20search-008080" width="55" height="55" /><br>Vector Search</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/aiops-2d3748" width="55" height="55" /><br>AIOps</td>
+      <td align="center" width="90"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="55" height="55" /><br>React Native</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/system%20design-666666" width="55" height="55" /><br>System Design</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/api%20optimization-999999" width="55" height="55" /><br>API Optimization</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
