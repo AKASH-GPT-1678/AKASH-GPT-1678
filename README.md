@@ -15,7 +15,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/langnestjs" width="55" height="55" /><br>Nest.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" /><br>Nest.js</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/openai-412991" width="55" height="55" /><br>OpenAI API</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/rag-lightblue" width="55" height="55" /><br>RAG</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/pytorch-orange" width="55" height="55" /><br>PyTorch</td>
