@@ -17,7 +17,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" width="55" height="55" /><br>Solidity</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" /><br>Nest.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring Boot</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring</td>
     <td align="center" width="90"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/openai-old-logo.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400" width="55" height="55" /><br>OpenAI API</td>
 
 
@@ -90,15 +90,25 @@
 
 ## 🏆 Featured Projects
 
-### 🚛 FleetOps - end-to-end Logistic Platforms
-**Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
+### 🚀 MeatTruck – Bulk Meat & Livestock Trading Platform
+
+**Tech Stack:** Next.js 14, TypeScript, Tailwind, Spring Boot 3.x, Java 17, PostgreSQL 15, AWS S3, Razorpay, OAuth
+
+MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
+
 - [Live View](https://fleet-ops-tau.vercel.app/)
 - [Code](https://github.com/AKASH-GPT-1678/FleetOps)
 
-### 📖 Library Management System
-**Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
-- [User Portal](https://surajsahanidjangodeveloper.pythonanywhere.com/)
-- [Admin Panel](https://surajsahanidjangodeveloper.pythonanywhere.com/admin/login/?next=/admin/)
+
+### 🚀 MeatTruck – Bulk Meat & Livestock Trading Platform
+
+**Tech Stack:** Next.js 14, TypeScript, Tailwind, Spring Boot 3.x, Java 17, PostgreSQL 15, AWS S3, Razorpay, OAuth
+
+MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
+
+- [Live View](https://fleet-ops-tau.vercel.app/)
+- [Code](https://github.com/AKASH-GPT-1678/FleetOps)
+
 
 ### 📚 E-Granthalaya
 **Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
