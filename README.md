@@ -15,6 +15,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
+     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" width="55" height="55" /><br>Solidity</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" /><br>Nest.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring Boot</td>
     <td align="center" width="90"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/openai-old-logo.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400" width="55" height="55" /><br>OpenAI API</td>
@@ -62,7 +63,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" /><br>Kubernetes</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=azure" width="55" height="55" /><br>Azure</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" /><br>GCP</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" /><br>Jenkins</td>
   </tr>
   <tr>
@@ -78,7 +79,7 @@
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pycharm" width="55" height="55" /><br>PyCharm</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/intellijIDEA-purple" width="55" height="55" /><br>IntelliJ IDEA</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea" width="55" height="55" /><br>IntelliJ IDEA</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/postman-orange" width="55" height="55" /><br>Postman</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/selenium-darkblue" width="55" height="55" /><br>Selenium</td>
