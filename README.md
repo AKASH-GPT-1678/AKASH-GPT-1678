@@ -34,26 +34,6 @@
 - [User Portal](https://surajsahaniloveandlace.pythonanywhere.com/)
 - [Admin Panel](https://surajsahaniloveandlace.pythonanywhere.com/admin/login/?next=/admin/)
 
-### 📝 Blog Application
-**Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
-- [User Portal](https://surajsahani.pythonanywhere.com/home/)
-- [Admin Panel](https://surajsahani.pythonanywhere.com/admin/login/?next=/admin/)
-
-### 🎬 YouTube Clone
-**Tech Stack:** React JS, HTML5, CSS3, JavaScript, Bootstrap
-- [Live Demo](https://surajsahani-youtube.netlify.app/)
-
-### 📝 TextUtils
-**Tech Stack:** React JS, HTML5, CSS3, JavaScript, Bootstrap
-- [Live Demo](https://surajsahani-textutils.netlify.app/)
-
-### 🤖 AI Chatbot
-**Tech Stack:** React JS, HTML5, CSS3, JavaScript, Bootstrap
-- [Live Demo](https://surajsahani-ai-chatbot.netlify.app/)
-
-### 👥 Employee Management System
-**Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap
-- [Live Demo](http://surajsahani-employee-crud.infinityfreeapp.com/php-mysqli-employee-crud-app/index.php)
 
 ### 🎮 Interactive Web Applications
 - [Simple Calculator](https://surajsahani-calculator.netlify.app/)
