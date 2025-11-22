@@ -16,6 +16,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" /><br>Nest.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring Boot</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/openai-412991" width="55" height="55" /><br>OpenAI API</td>
 
 
@@ -28,7 +29,9 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/fastapi-0e9e67" width="55" height="55" /><br>FastAPI</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="55" height="55" /><br>Django</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/prisma-2d3748" width="55" height="55" /><br>Prisma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" /><br>Prisma</td>
+        <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" /><br>Prisma</td>
+  
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
@@ -74,7 +77,7 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/pycharm-darkgreen" width="55" height="55" /><br>PyCharm</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pycharm" width="55" height="55" /><br>PyCharm</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/intellijIDEA-purple" width="55" height="55" /><br>IntelliJ IDEA</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/postman-orange" width="55" height="55" /><br>Postman</td>
