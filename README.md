@@ -94,7 +94,7 @@
 
 **Tech Stack:** Next.js 14, TypeScript, Spring Boot 3.x, Redis, Docker , Kubernetes, PostgreSQL 15, AWS S3, Razorpay, Kafka
 
-MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
+FleetOps: Real-time fleet tracking and management platform with analytics, scheduling, and operational efficiency.
 
 - [Live View](https://fleet-ops-tau.vercel.app/)
 - [Code](https://github.com/AKASH-GPT-1678/FleetOps)
@@ -112,18 +112,18 @@ MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live 
 
 ### 📚 Full Stack Project Management Web App
 
-**Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
+**Tech Stack:** Next.js, Express, Node.js , GCP, Nodemailer,REST API ,GraphQL
 
-MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
+Renotar: Collaborative project management tool with task tracking, notifications, and cloud deployment.
 
 - [User Portal](https://surajsahaniprogrammer.pythonanywhere.com/login?next=/)
 - [Admin Panel](https://surajsahaniprogrammer.pythonanywhere.com/admin/login/?next=/admin/)
 
 ### 💑 Artesh - Connecting Artist to Hirers
 
-**Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
+**Tech Stack:** Next.js, Nest.js, Postgres, Prisma, Shadcn , Tailwind, AWS
 
-MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
+Artesh: Platform connecting artists with clients for easy discovery, booking, and project management.
 - [User Portal](https://surajsahaniloveandlace.pythonanywhere.com/)
 - [Admin Panel](https://surajsahaniloveandlace.pythonanywhere.com/admin/login/?next=/admin/)
 
@@ -131,18 +131,18 @@ MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live 
 
 ### 💑 Coconut Media Website - Complete Website for Siddhivinayak agency
 
-**Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, ShadcnUI, SQLite3
+**Tech Stack:** Next.js, Framer-Motion, Jest, Cloudinary, Vercel
 
-MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
+Siddhivinayak Agency: Modern responsive agency website with animations, portfolio showcase, and optimized media handling.
 - [User Portal](https://surajsahaniloveandlace.pythonanywhere.com/)
 - [Admin Panel](https://surajsahaniloveandlace.pythonanywhere.com/admin/login/?next=/admin/)
 
 
 ### 💑 PolyTikka - Rating Politicians and News Platform
 
-**Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
+**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap, Express , Railway
 
-MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
+PolyTikka: Interactive platform for rating politicians and news with voting, comments, and engagement features.
 - [User Portal](https://surajsahaniloveandlace.pythonanywhere.com/)
 - [Admin Panel](https://surajsahaniloveandlace.pythonanywhere.com/admin/login/?next=/admin/)
 
