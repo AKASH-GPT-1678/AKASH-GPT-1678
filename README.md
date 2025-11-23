@@ -90,19 +90,9 @@
 
 ## 🏆 Featured Projects
 
-### 🚀 MeatTruck – Bulk Meat & Livestock Trading Platform
+### 🚀 FleetOps – Logistics & Management , Tracking
 
-**Tech Stack:** Next.js 14, TypeScript, Tailwind, Spring Boot 3.x, Java 17, PostgreSQL 15, AWS S3, Razorpay, OAuth
-
-MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
-
-- [Live View](https://fleet-ops-tau.vercel.app/)
-- [Code](https://github.com/AKASH-GPT-1678/FleetOps)
-
-
-### 🚀 MeatTruck – Bulk Meat & Livestock Trading Platform
-
-**Tech Stack:** Next.js 14, TypeScript, Tailwind, Spring Boot 3.x, Java 17, PostgreSQL 15, AWS S3, Razorpay, OAuth
+**Tech Stack:** Next.js 14, TypeScript, Spring Boot 3.x, Redis, Docker , Kubernetes, PostgreSQL 15, AWS S3, Razorpay, Kafka
 
 MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
 
@@ -110,26 +100,52 @@ MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live 
 - [Code](https://github.com/AKASH-GPT-1678/FleetOps)
 
 
-### 📚 E-Granthalaya
+### 🚀 MeatTruck – Bulk Meat & Livestock Trading Platform
+
+**Tech Stack:** Next.js 14, TypeScript, Tailwind, Spring Boot 3.x, Java 17, PostgreSQL 15, AWS S3, Razorpay, OAuth
+
+MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
+
+- [Live View](https://b2-b-meat-web-pdvm.vercel.app/)
+- [Code](https://github.com/AKASH-GPT-1678/B2B-Meat-Web)
+
+
+### 📚 Full Stack Project Management Web App
+
 **Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
+
+MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
+
 - [User Portal](https://surajsahaniprogrammer.pythonanywhere.com/login?next=/)
 - [Admin Panel](https://surajsahaniprogrammer.pythonanywhere.com/admin/login/?next=/admin/)
 
-### 💑 Love & Lace (Wedding Planner)
+### 💑 Artesh - Connecting Artist to Hirers
+
 **Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
+
+MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
 - [User Portal](https://surajsahaniloveandlace.pythonanywhere.com/)
 - [Admin Panel](https://surajsahaniloveandlace.pythonanywhere.com/admin/login/?next=/admin/)
 
 
-### 🎮 Interactive Web Applications
-- [Simple Calculator](https://surajsahani-calculator.netlify.app/)
-- [Age Calculator](https://surajsahani-agecalculator.netlify.app/)
-- [Music Player](https://surajsahani-musicplayer.netlify.app/)
-- [Digital Clock](https://surajsahani-digitalclock.netlify.app/)
-- [Time Calculator](https://surajsahani-time-calculator.netlify.app/)
-- [Number System Converter](https://surajsahani-number-system-converter.netlify.app/)
-- [Image Slider](https://surajsahani-image-slider.netlify.app/)
-- [Tic-Tac-Toe Game](https://surajsahani-tic-tac-toe-game.netlify.app/)
+
+### 💑 Coconut Media Website - Complete Website for Siddhivinayak agency
+
+**Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, ShadcnUI, SQLite3
+
+MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
+- [User Portal](https://surajsahaniloveandlace.pythonanywhere.com/)
+- [Admin Panel](https://surajsahaniloveandlace.pythonanywhere.com/admin/login/?next=/admin/)
+
+
+### 💑 PolyTikka - Rating Politicians and News Platform
+
+**Tech Stack:** Python, Django, HTML5, CSS3, JavaScript, Bootstrap, SQLite3
+
+MeatTruck: Bulk meat & livestock trading with secure payments, dashboards, live chat, OTP, and full regulatory compliance.
+- [User Portal](https://surajsahaniloveandlace.pythonanywhere.com/)
+- [Admin Panel](https://surajsahaniloveandlace.pythonanywhere.com/admin/login/?next=/admin/)
+
 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rylin31&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
