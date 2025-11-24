@@ -1,7 +1,49 @@
-# Akash Gupta
-# 💫 About Me:
-I am Akash Gupta an asprig Full Stack Developer and also expanding my footprints in Web3 and AI & ML i had expertise in building frontend applications with react can build backend powered by node.js, Nest.js, Spring Boot
-Learning and adding new SkillSet on my list is passion for me 
+Here’s a **clean, professional, and impressive GitHub *About Me* section** based on what you shared — short, crisp, and recruiter-friendly:
+
+---
+
+## 👋 Hi, I'm **Akash Gupta**
+
+Aspiring **Full Stack Developer** passionate about building impactful digital products.
+I love exploring **Web3**, **AI/ML**, and cutting-edge technologies while constantly expanding my skillset.
+
+---
+
+### 🚀 **What I Do**
+
+* 🖥️ **Frontend Development** – Expert in building modern, responsive UI with **React**, **Next.js**, Tailwind, and TypeScript.
+* ⚙️ **Backend Development** – Experience in creating scalable APIs using **Node.js**, **Nest.js**, and currently learning **Spring Boot**.
+* 🛠️ **DevOps** – Comfortable with most DevOps workflows and tools:
+
+  * CI/CD (GitHub Actions, Jenkins)
+  * Docker & containerization
+  * Linux & shell scripting
+  * Basic Kubernetes
+  * Cloud deployments (AWS / Render / Vercel)
+
+---
+
+### 🌱 **Currently Exploring**
+
+* Advanced **Spring Boot** architecture
+* **Web3** smart contracts & blockchain concepts
+* Practical **AI/ML** for real-world applications
+
+---
+
+### 🧩 **What Drives Me**
+
+Learning and adding new skills is my **passion**. I love solving problems, building real projects, and constantly leveling up as a developer.
+
+---
+
+### 📫 **Let’s Connect**
+
+* 🌐 Portfolio: *add your link*
+* 💼 LinkedIn: *add your link*
+* 🧑‍💻 GitHub: *your username*
+
+---
 
 
 
