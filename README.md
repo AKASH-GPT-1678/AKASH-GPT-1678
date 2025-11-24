@@ -46,14 +46,6 @@ Learning and adding new skills is my **passion**. I love solving problems, build
 
 ---
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-s-355a3131b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahul.s.31.08.2006@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://theakashgupta.com/)
-
-
-
 # 💻 Tech Stack:
 <table align="center">
   <tr>
