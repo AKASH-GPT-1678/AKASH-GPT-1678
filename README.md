@@ -38,12 +38,11 @@ Learning and adding new skills is my **passion**. I love solving problems, build
 
 ### 📫 **Let’s Connect**
 
-* 🌐 Portfolio: *add your link*
-* 💼 LinkedIn: *add your link*
-* 🧑‍💻 GitHub: *your username*
-* 💬 Discord: yourDiscordUsername  
-* ✉️ **Email:** your@email.com
-* cv  https://x.com/akash_gpt_
+* 🌐 **Portfolio:** https://theakashgupta.com/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/akash-gupta-9b538a20b/
+* 💬 **Discord:** akashgupta_60919
+* ✉️ **Email:** akashgpta1654@gmcil.com
+* 🐤 **X:** https://x.com/akash_gpt_
 
 ---
 
