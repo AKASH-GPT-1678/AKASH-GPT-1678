@@ -1,5 +1,7 @@
 # Akash Gupta
 # 💫 About Me:
+I am Akash Gupta an asprig Full Stack Developer and also expanding my footprints in Web3 and AI & ML i had expertise in building frontend applications with react can build backend powered by node.js, Nest.js, Spring Boot
+Learning and adding new SkillSet on my list is passion for me 
 
 
 
