@@ -1,4 +1,3 @@
-Here’s a **clean, professional, and impressive GitHub *About Me* section** based on what you shared — short, crisp, and recruiter-friendly:
 
 ---
 
@@ -42,6 +41,9 @@ Learning and adding new skills is my **passion**. I love solving problems, build
 * 🌐 Portfolio: *add your link*
 * 💼 LinkedIn: *add your link*
 * 🧑‍💻 GitHub: *your username*
+* 💬 Discord: yourDiscordUsername  
+* ✉️ **Email:** your@email.com
+* cv  https://x.com/akash_gpt_
 
 ---
 
