@@ -55,6 +55,7 @@ Learning and adding new skills is my **passion**. I love solving problems, build
      <td align="center" width="90"><img src="https://skillicons.dev/icons?i=solidity" width="55" height="55" /><br>Solidity</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" /><br>Nest.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring</td>
+     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=graphql" width="55" height="55" /><br>Spring</td>
     <td align="center" width="90"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/openai-old-logo.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400" width="55" height="55" /><br>OpenAI API</td>
 
 
