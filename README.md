@@ -67,7 +67,6 @@ Learning and adding new skills is my **passion**. I love solving problems, build
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/fastapi-0e9e67" width="55" height="55" /><br>FastAPI</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="55" height="55" /><br>Django</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" /><br>Prisma</td>
         <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" /><br>Android Studio</td>
   
@@ -80,7 +79,6 @@ Learning and adding new skills is my **passion**. I love solving problems, build
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/ssr-64748b" width="55" height="55" /><br>SSR</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/hybrid%20rendering-2e2e2e" width="55" height="55" /><br>Hybrid Rendering</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
   </tr>
   <tr>
@@ -103,6 +101,7 @@ Learning and adding new skills is my **passion**. I love solving problems, build
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" /><br>GCP</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" /><br>Jenkins</td>
+     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" /><br>Jenkins</td>
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
